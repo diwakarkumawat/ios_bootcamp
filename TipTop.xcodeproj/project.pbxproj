@@ -14,6 +14,7 @@
 		A0A65D341E80969F002E6D41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0A65D321E80969F002E6D41 /* LaunchScreen.storyboard */; };
 		A0A65D3F1E80969F002E6D41 /* TipTopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A65D3E1E80969F002E6D41 /* TipTopTests.swift */; };
 		A0A65D4A1E80969F002E6D41 /* TipTopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A65D491E80969F002E6D41 /* TipTopUITests.swift */; };
+		A0A65D581E809FDF002E6D41 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A65D571E809FDF002E6D41 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A0A65D451E80969F002E6D41 /* TipTopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipTopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0A65D491E80969F002E6D41 /* TipTopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipTopUITests.swift; sourceTree = "<group>"; };
 		A0A65D4B1E80969F002E6D41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0A65D571E809FDF002E6D41 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A0A65D291E80969F002E6D41 /* AppDelegate.swift */,
 				A0A65D2B1E80969F002E6D41 /* ViewController.swift */,
 				A0A65D2D1E80969F002E6D41 /* Main.storyboard */,
+				A0A65D571E809FDF002E6D41 /* SettingsViewController.swift */,
 				A0A65D301E80969F002E6D41 /* Assets.xcassets */,
 				A0A65D321E80969F002E6D41 /* LaunchScreen.storyboard */,
 				A0A65D351E80969F002E6D41 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				A0A65D2C1E80969F002E6D41 /* ViewController.swift in Sources */,
 				A0A65D2A1E80969F002E6D41 /* AppDelegate.swift in Sources */,
+				A0A65D581E809FDF002E6D41 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
