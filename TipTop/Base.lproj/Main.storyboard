@@ -142,6 +142,13 @@
                                     <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="valueChanged" id="5t8-h0-Qxr"/>
                                 </connections>
                             </segmentedControl>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Select a Default Percentage" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rhB-xA-cT1">
+                                <rect key="frame" x="40" y="260" width="257" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -156,7 +163,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YK0-G1-5Pf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1887" y="125"/>
+            <point key="canvasLocation" x="1885.5999999999999" y="124.58770614692655"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="U4J-3z-1gz">
